@@ -1,0 +1,9 @@
+C:\src\c#\Bloggerium\Bloggerium.Entities\bin\Debug\netstandard2.0\Bloggerium.Entities.deps.json
+C:\src\c#\Bloggerium\Bloggerium.Entities\bin\Debug\netstandard2.0\Bloggerium.Entities.dll
+C:\src\c#\Bloggerium\Bloggerium.Entities\bin\Debug\netstandard2.0\Bloggerium.Entities.pdb
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.csprojAssemblyReference.cache
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.csproj.CoreCompileInputs.cache
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.AssemblyInfoInputs.cache
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.AssemblyInfo.cs
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.dll
+C:\src\c#\Bloggerium\Bloggerium.Entities\obj\Debug\netstandard2.0\Bloggerium.Entities.pdb

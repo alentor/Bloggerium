@@ -1,0 +1,16 @@
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Web2.0.deps.json
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Web2.0.runtimeconfig.json
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Web2.0.runtimeconfig.dev.json
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Web2.0.dll
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Web2.0.pdb
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Dal.dll
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Entities.dll
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Dal.pdb
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\bin\Debug\netcoreapp2.0\Bloggerium.Entities.pdb
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.csprojAssemblyReference.cache
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.csproj.CoreCompileInputs.cache
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.AssemblyInfoInputs.cache
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.AssemblyInfo.cs
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.csproj.CopyComplete
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.dll
+C:\src\c#\Bloggerium\Bloggerium.Web2.0\obj\Debug\netcoreapp2.0\Bloggerium.Web2.0.pdb
